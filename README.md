@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Haridas</h1>  
+<h2 align="center">Hi 👋, I'm Vishal Haridas</h2>  
 <h3 align="center">I am a passionate programmer looking for opportunities to learn and grow</h3>
 
 - 🔭 I’m currently working on Unity projects 
