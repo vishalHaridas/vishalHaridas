@@ -7,4 +7,4 @@
   - methods of working with a limited context window
   - philisophies and frameworks on making model model agnostic products 
 - 📫 Reach me with this email: vishalharidasofficial@gmail.com 
-- 📄 Resume available at: [Google Drive Link]([https://drive.google.com/file/d/1_-ihbVWvVeGqpwPWHFEgpHU7Ncbmm1xw/view?usp=sharing](https://drive.google.com/file/d/1b42pHSai7eiac7E-G5T3Ggun--9yhkNx/view?usp=sharing)https://drive.google.com/file/d/1b42pHSai7eiac7E-G5T3Ggun--9yhkNx/view?usp=sharing) 
+- 📄 Resume available at: [Google Drive Link](https://drive.google.com/file/d/1b42pHSai7eiac7E-G5T3Ggun--9yhkNx/view?usp=sharing)
