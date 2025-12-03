@@ -2,4 +2,4 @@
 <h3 align="center">OMG, so many things happening in AI!! Can't keep up, but won't stop trying!!</h3>
 
 - 📫 Reach me with this email: vishalharidasofficial@gmail.com
-- 📄 Resume available at: [Google Drive Link](https://drive.google.com/file/d/1aBneeq_eQ1sd9ori0nkGK_vfjL4-LUJn/view?usp=drive_link)
+- 📄 Resume available at: [Google Drive Link](https://drive.google.com/file/d/1wVx_lIPjkxfuxwl9yYgxnbgQ1qyuWCFO/view?usp=sharing)
