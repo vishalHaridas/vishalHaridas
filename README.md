@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Vishal Haridas</h1>
-<h3 align="center">OMG, so many things happening in AI!! Can't keep up, but won't stop trying!!</h3>
+<div >
+<h1>Hi 👋, I code</h1>
+  
+_Human in the loop, still_
+  
+Trained in the ancient arts of **fullstack** and **mobile** engineering
 
-- 📫 Reach me with this email: vishalharidasofficial@gmail.com
-- 📄 Resume available at: [Google Drive Link](https://drive.google.com/file/d/1LSy0E2TAq5e5nsRC1q0vqmSOeGtX1F7r/view?usp=sharing)
+</div>
+
+ <div align="right">
+
+📜 Career lore → [Resume](https://drive.google.com/file/d/1LSy0E2TAq5e5nsRC1q0vqmSOeGtX1F7r/view?usp=sharing)
+ 
+ </div>
